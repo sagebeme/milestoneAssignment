@@ -6,28 +6,28 @@
 git clone https://github.com/yourusername/Student-Web-Projects.git
 cd Student-Web-Projects
 
-mkdir Erastus-TouristAttractionFinder
-mkdir Malcom-GuidedToursBooking
-mkdir Regan-TravelPackageReview
-mkdir Christine-CarInsuranceQuote
-mkdir Constance-HealthInsurancePlan
-mkdir Felix-PropertyListingManager
-mkdir Ajia-RentalPaymentTracker
-mkdir Lydia-RealEstateInquiry
-mkdir Fenton-HotelRoomBooking
-mkdir Blessed-HotelReviewPlatform
+- mkdir Erastus-TouristAttractionFinder
+- mkdir Malcom-GuidedToursBooking
+- mkdir Regan-TravelPackageReview
+- mkdir Christine-CarInsuranceQuote
+- mkdir Constance-HealthInsurancePlan
+- mkdir Felix-PropertyListingManager
+- mkdir Ajia-RentalPaymentTracker
+- mkdir Lydia-RealEstateInquiry
+- mkdir Fenton-HotelRoomBooking
+- mkdir Blessed-HotelReviewPlatform
 
 ---------------------------------------------
 +   Folder structure                        +
 ---------------------------------------------
 ---------------------------------------------
-+   ProjectX-ProjectName/                   +
-+    ├── index.html                         +
-+    ├── css/                               +
-+    │   └── style.css                      +
-+    ├── js/                                +
-+    │   └── script.js                      +
-+    └── README.md                          +
++   ProjectX-ProjectName/                   
++    ├── index.html                         
++    ├── css/                               
++    │   └── style.css                      
++    ├── js/                                
++    │   └── script.js                      
++    └── README.md                          
 ---------------------------------------------
 # 3. Write the Main README.md File
 ## In the root directory of your repository, create or edit the README.md file:
