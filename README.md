@@ -47,12 +47,12 @@ This repository contains web development projects for students who have learned 
 ### 2. [Guided Tours Booking System](Project2-GuidedToursBooking)
    - **Description:** A booking system for guided tours of tourist sites.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, browse tours, book tours, data stored in Firebase.
+   - **Features:** User login, input new tours, data stored in Firebase.
 
 ### 3. [Travel Package Review Platform](Project3-TravelPackageReview)
    - **Description:** A platform where users can log in and review travel packages offered by tour companies in Kenya.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input reviews, browse reviews, data stored in Firebase.
+   - **Features:** User login, input new reviews, data stored in Firebase.
 
 ### 4. [Car Insurance Quote Generator](Project4-CarInsuranceQuote)
    - **Description:** A web app for users to generate and save car insurance quotes.
@@ -72,22 +72,22 @@ This repository contains web development projects for students who have learned 
 ### 7. [Tenant Rental Payment Tracker](Project7-RentalPaymentTracker)
    - **Description:** A rental payment tracker for tenants.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input payments, track history, data stored in Firebase.
+   - **Features:** User login, input payments, data stored in Firebase.
 
 ### 8. [Real Estate Inquiry System](Project8-RealEstateInquiry)
    - **Description:** A system for potential buyers to submit inquiries about properties for sale.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, submit inquiries, view inquiries, data stored in Firebase.
+   - **Features:** User login, submit inquiries, data stored in Firebase.
 
 ### 9. [Hotel Room Booking System](Project9-HotelRoomBooking)
    - **Description:** A hotel room booking system.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, browse rooms, book rooms, data stored in Firebase.
+   - **Features:** User login, input rooms, data stored in Firebase.
 
 ### 10. [Hotel Review Platform](Project10-HotelReviewPlatform)
     - **Description:** A hotel review platform where users can leave reviews for hotels they have stayed in.
     - **Technologies:** HTML, CSS, JavaScript, Firebase.
-    - **Features:** User login, input reviews, browse reviews, data stored in Firebase.
+    - **Features:** User login, input reviews, data stored in Firebase.
 
 ## How to Contribute
 
