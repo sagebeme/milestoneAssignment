@@ -4,6 +4,7 @@
 - Each student has a specific task assigned to them you should check your name and do your specific project
 
 git clone https://github.com/sagebeme/milestoneAssignment.git
+
 cd Student-Web-Projects
 
 - mkdir Erastus-TouristAttractionFinder
