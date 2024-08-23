@@ -3,7 +3,7 @@
 ### This is an assignment for the shield students Aug 2024
 - Each student has a specific task assigned to them you should check your name and do your specific project
 
-git clone https://github.com/yourusername/Student-Web-Projects.git
+git clone https://github.com/sagebeme/milestoneAssignment.git
 cd Student-Web-Projects
 
 - mkdir Erastus-TouristAttractionFinder
@@ -41,7 +41,7 @@ This repository contains web development projects for students who have learned 
 ### 1. [Tourist Attraction Finder](Project1-TouristAttractionFinder)
    - **Description:** A web app to find and input local tourist attractions in Kenya.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, logout, search attractions, input new attractions, data stored in Firebase.
+   - **Features:** User login, logout, input new attractions, data stored in Firebase.
 
 ### 2. [Guided Tours Booking System](Project2-GuidedToursBooking)
    - **Description:** A booking system for guided tours of tourist sites.
@@ -66,7 +66,7 @@ This repository contains web development projects for students who have learned 
 ### 6. [Property Listing Manager](Project6-PropertyListingManager)
    - **Description:** A web app for real estate agents to log in and manage property listings.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, add properties, search properties, data stored in Firebase.
+   - **Features:** User login, add properties, data stored in Firebase.
 
 ### 7. [Tenant Rental Payment Tracker](Project7-RentalPaymentTracker)
    - **Description:** A rental payment tracker for tenants.
