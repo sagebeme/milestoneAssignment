@@ -17,6 +17,11 @@ cd Student-Web-Projects
 - mkdir Lydia-RealEstateInquiry
 - mkdir Fenton-HotelRoomBooking
 - mkdir Blessed-HotelReviewPlatform
+- mkdir Esther-EventPromotionPlatform
+- mkdir Anthony-LifeInsuranceCalculator
+- mkdir Tony-RealEstateAgentProfile
+- mkdir Braxton-MortgageCalculator
+- mkdir Reuben-HotelAmenitiesComparison
 
 ---------------------------------------------
 +   Folder structure                        +
