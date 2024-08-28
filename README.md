@@ -39,55 +39,81 @@ This repository contains web development projects for students who have learned 
 
 ## Projects Overview
 
-### 1. [Tourist Attraction Finder](Project1-TouristAttractionFinder)
+### 1. [Tourist Attraction Finder](Erastus-TouristAttractionFinder)
    - **Description:** A web app to find and input local tourist attractions in Kenya.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
    - **Features:** User login, logout, input new attractions, data stored in Firebase.
 
-### 2. [Guided Tours Booking System](Project2-GuidedToursBooking)
+### 2. [Guided Tours Booking System](Malcom-GuidedToursBooking)
    - **Description:** A booking system for guided tours of tourist sites.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input new tours, data stored in Firebase.
+   - **Features:** User login, logout, create new tours, data stored in Firebase.
 
-### 3. [Travel Package Review Platform](Project3-TravelPackageReview)
+### 3. [Travel Package Review Platform](Regan-TravelPackageReview)
    - **Description:** A platform where users can log in and review travel packages offered by tour companies in Kenya.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input new reviews, data stored in Firebase.
+   - **Features:** User login, logout, input new reviews, data stored in Firebase.
 
-### 4. [Car Insurance Quote Generator](Project4-CarInsuranceQuote)
+### 4. [Car Insurance Quote Generator](Christine-CarInsuranceQuote)
    - **Description:** A web app for users to generate and save car insurance quotes.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input car details, generate quotes, data stored in Firebase.
+   - **Features:** User login, logout, add car details, generate quotes, data stored in Firebase.
 
-### 5. [Health Insurance Plan Selector](Project5-HealthInsurancePlan)
+### 5. [Health Insurance Plan Selector](Constance-HealthInsurancePlan)
    - **Description:** A web app for users to select and compare health insurance plans.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input personal details, select plans, data stored in Firebase.
+   - **Features:** User login, logout, submit personal details, select plans, data stored in Firebase.
 
-### 6. [Property Listing Manager](Project6-PropertyListingManager)
+### 6. [Property Listing Manager](Felix-PropertyListingManager)
    - **Description:** A web app for real estate agents to log in and manage property listings.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, add properties, data stored in Firebase.
+   - **Features:** User login, logout, add properties, data stored in Firebase.
 
-### 7. [Tenant Rental Payment Tracker](Project7-RentalPaymentTracker)
+### 7. [Tenant Rental Payment Tracker](Ajia-RentalPaymentTracker)
    - **Description:** A rental payment tracker for tenants.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input payments, data stored in Firebase.
+   - **Features:** User login, logout, submit payments, data stored in Firebase.
 
-### 8. [Real Estate Inquiry System](Project8-RealEstateInquiry)
+### 8. [Real Estate Inquiry System](Lydia-RealEstateInquiry)
    - **Description:** A system for potential buyers to submit inquiries about properties for sale.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
    - **Features:** User login, submit inquiries, data stored in Firebase.
 
-### 9. [Hotel Room Booking System](Project9-HotelRoomBooking)
+### 9. [Hotel Room Booking System](Fenton-HotelRoomBooking)
    - **Description:** A hotel room booking system.
    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-   - **Features:** User login, input rooms, data stored in Firebase.
+   - **Features:** User login, create rooms, data stored in Firebase.
 
-### 10. [Hotel Review Platform](Project10-HotelReviewPlatform)
-    - **Description:** A hotel review platform where users can leave reviews for hotels they have stayed in.
-    - **Technologies:** HTML, CSS, JavaScript, Firebase.
-    - **Features:** User login, input reviews, data stored in Firebase.
+### 10. [Hotel Review Platform](Blessed-HotelReviewPlatform)
+   - **Description:** A hotel review platform where users can leave reviews for hotels they have stayed in.
+   - **Technologies:** HTML, CSS, JavaScript, Firebase.
+   - **Features:** User login, logout, add reviews, data stored in Firebase.
+
+### 11. [Event Promotion Platform](Esther-EventPromotionPlatform)
+   - **Description:** A platform where event organizers can promote upcoming tourism events in Kenya.
+   - **Technologies:** HTML, CSS, JavaScript, Firebase.
+   - **Features:** User login, logout, input event submission, data stored in Firebase.
+
+### 12. [Life Insurance Premium Calculator](Anthony-LifeInsuranceCalculator)
+   - **Description:** A web app for calculating life insurance premiums based on user input.
+   - **Technologies:** HTML, CSS, JavaScript, Firebase.
+   - **Features:** User login, logout, add personal and health details, data stored in Firebase.
+
+### 13. [Real Estate Agent Profile Manager](Tony-RealEstateAgentProfile)
+   - **Description:** Build a platform for real estate agents to create and manage their profiles and listings.
+   - **Technologies:** HTML, CSS, JavaScript, Firebase.
+   - **Features:** User login, logout, create listings, data stored in Firebase.
+
+### 14. [Mortgage](Braxton-Mortgage)
+   - **Description:** Develop a web app that helps users calculate their mortgage payments based on loan amount, interest rate, and term.
+   - **Technologies:** HTML, CSS, JavaScript, Firebase.
+   - **Features:** User login, logout, create loan details, data stored in Firebase.
+
+### 15. [Hotel Amenities Comparison Tool](Reuben-HotelAmenitiesComparison)
+   - **Description:** Create a tool where users can compare amenities offered by different hotels in Kenya.
+   - **Technologies:** HTML, CSS, JavaScript, Firebase.
+   - **Features:** User login, logout, input hotels, 'data stored in Firebase.
+
 
 ## How to Contribute
 
