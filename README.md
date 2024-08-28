@@ -155,7 +155,7 @@ Detailed description of the project. For example, "This web app allows users to 
 ## Setup Instructions
 ### 1. Clone the repository:
    ``` bash
-   git clone https://github.com/yourusername/Student-Web-Projects.git
+   git clone https://github.com/sagebeme/milestoneAssignment.git Student-Web-Projects
    cd Student-Web-Projects/ProjectX-ProjectName
 ```
 ### 2. Open the index.html file in your browser to view the project.
