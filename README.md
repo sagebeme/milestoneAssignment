@@ -20,7 +20,7 @@ cd Student-Web-Projects
 - mkdir Esther-EventPromotionPlatform
 - mkdir Anthony-LifeInsuranceCalculator
 - mkdir Tony-RealEstateAgentProfile
-- mkdir Braxton-MortgageCalculator
+- mkdir Braxton-Mortgage
 - mkdir Reuben-HotelAmenitiesComparison
 
 ---------------------------------------------
